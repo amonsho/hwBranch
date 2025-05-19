@@ -750,6 +750,14 @@ video {
   padding: 2rem;
 }
 
+.p-3 {
+  padding: 0.75rem;
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
 .pt-4 {
   padding-top: 1rem;
 }
@@ -880,4 +888,8 @@ video {
 .text-\[\#1F1F1F\] {
   --tw-text-opacity: 1;
   color: rgb(31 31 31 / var(--tw-text-opacity, 1));
+}
+
+.text-\[14\] {
+  color: 14;
 }
